@@ -1,0 +1,12 @@
+node_modules/
+*.tar.gz
+*.tgz
+*.log
+arena-preview.jpg
+hard-mode-preview.jpg
+
+arsenal-preview.jpg
+
+evolution-preview.jpg
+
+creatures-preview.jpg
